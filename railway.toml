@@ -1,0 +1,1 @@
+[deploy]\nstartCommand = "npm start"\nrestartPolicyType = "ON_FAILURE"\nrestartPolicyMaxRetries = 10\n
